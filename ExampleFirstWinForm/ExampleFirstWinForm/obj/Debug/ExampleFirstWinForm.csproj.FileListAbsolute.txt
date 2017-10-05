@@ -1,0 +1,10 @@
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\bin\Debug\ExampleFirstWinForm.exe.config
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\bin\Debug\ExampleFirstWinForm.exe
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\bin\Debug\ExampleFirstWinForm.pdb
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.csprojResolveAssemblyReference.cache
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.Form1.resources
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.Properties.Resources.resources
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.csproj.GenerateResource.Cache
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.csproj.CoreCompileInputs.cache
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.exe
+c:\users\закарьянова.corp\source\repos\ExampleFirstWinForm\ExampleFirstWinForm\obj\Debug\ExampleFirstWinForm.pdb

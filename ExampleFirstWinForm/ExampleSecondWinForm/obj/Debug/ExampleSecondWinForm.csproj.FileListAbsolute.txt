@@ -1,0 +1,10 @@
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\bin\Debug\ExampleSecondWinForm.exe.config
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\bin\Debug\ExampleSecondWinForm.exe
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\bin\Debug\ExampleSecondWinForm.pdb
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.Form1.resources
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.Properties.Resources.resources
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.csproj.GenerateResource.Cache
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.csproj.CoreCompileInputs.cache
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.exe
+C:\Users\закарьянова.CORP\source\repos\ExampleFirstWinForm\ExampleSecondWinForm\obj\Debug\ExampleSecondWinForm.pdb
